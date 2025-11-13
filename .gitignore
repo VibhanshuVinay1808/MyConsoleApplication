@@ -1,0 +1,11 @@
+    # Ignore compiled output
+    *.o
+    *.exe
+
+    # Ignore temporary files
+    *.tmp
+    *~
+
+    # Ignore sensitive information
+    config.ini
+    .env
